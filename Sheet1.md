@@ -716,3 +716,6 @@ Become a developer who can:
 * debug efficiently
 * build real projects
 * deeply understand JavaScript instead of memorizing syntax
+
+<!-- 23, 35, 44, 45, 46, 50, 53, 54, 55, 57, 61, 62, 63, 66, 67, 68, 69, 70, 71, 72, 73
+66, 67, 69, 70, 71, 72, 73. -->
